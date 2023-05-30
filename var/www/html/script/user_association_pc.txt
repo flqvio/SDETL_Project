@@ -1,0 +1,2 @@
+user2;PC-2;10.0.0.3;firefox libreoffice vlc virt-manager transmission gparted audacity filezilla remmina asterisk build-essential apache2 code
+user1;PC-1;10.0.0.2;firefox libreoffice vlc virt-manager transmission gparted audacity filezilla remmina asterisk build-essential apache2 code
